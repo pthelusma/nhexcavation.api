@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{91EA1E17-BEA8-4DCA-BAC2-6955E691B6AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aws-lambda-tools-defaults.json">
+    <Files>
+      <File FileName="LambdaHandler.cs" Line="9" Column="67" />
+      <File FileName="lib/DomainObjects/Communication.cs" Line="16" Column="38" />
+      <File FileName="lib/Repository/DynamoDbRepository.cs" Line="35" Column="4" />
+      <File FileName="lib/Repository/IRepository.cs" Line="1" Column="37" />
+      <File FileName="lib/DTO/CommunicationRequest.cs" Line="18" Column="25" />
+      <File FileName="lib/DTO/CommunicationResponse.cs" Line="9" Column="4" />
+      <File FileName="test.data.json" Line="6" Column="21" />
+      <File FileName="aws-lambda-tools-defaults.json" Line="9" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NHExcavationCommunicationLambda PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
